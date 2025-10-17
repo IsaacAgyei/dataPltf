@@ -1,6 +1,4 @@
-# 🔗 **dataPltf
-
-# 🔗 **Stateful Mocking API: Programmatic Test Environment Builder**
+# 🔗 **DataPltf: An API used to generate interconnected mock data
 
 ---
 
