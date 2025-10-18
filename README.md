@@ -1,16 +1,20 @@
-# 🔗 **DataPltf: An API used to generate interconnected mock data
+# 🔗 **DataPltf: High-fidelity, relational mock data generator.
 
 ---
 
-## 💡 The Problem with Mock Data
+## 💡 The Problem: Monostructured Mock Data Generators
 
-Traditional mock data generators provide isolated objects with no contenxt of **complex relationships, events, and activities** found in real-world systems. Setting up test enviorments with realistic data for robust testing is often **manuel, time-consuming, and overwhelming.**
+Most traditional mock data generators are functionally limited; they only return **monostructured, isolated objects**. This fails to address how data interacts in most applications. Data in a dynamic system is inherently **relational**, built on **complex relationships and verifiable chains of events**.
+
+To test modern applications effectively, a developer needs to generate logically **grouped and linked** objects that accurately represent user activity.
+
+Currently the process of creating relational mock data is **manual, time-consuming, overwhelming, and error prone.** 
 
 ---
 
-## 🚀 The Solution: Linked Data Mocking
+## 🚀 The Solution: Interconnected Mock Data
 
-The **dataPltf API** connects developers to a smart generator that goes beyond simple object creation. It automatically **links and correlates** mock data points, allowing you to **programmatically sculpt** entire, realistic test states—from a user's purchase history to a complex social network of relationships. 
+**DataPltf** connects developers to a smart generator that goes beyond simple object creation. It **links** mock data, allowing you to **programmatically simulate** realistic user activity; with a simple api call. 
 
 ### Benefits
 | Feature | Description | Potential Impact |
