@@ -1,14 +1,14 @@
-# 🔗 **DataPltf: High-fidelity, relational mock data generator.
+# 🔗 **DataPltf: Relational mock data generator.
 
 ---
 
-## 💡 The Problem: Monostructured Mock Data Generators
+## 💡 The Problem:
 
-Most traditional mock data generators are functionally limited; they only return **monostructured, isolated objects**. This fails to address how data interacts in most applications. Data in a dynamic system is inherently **relational**, built on **complex relationships and verifiable chains of events**.
+Mock data generators are functionally limited; they only return **isolated objects**. They don't enable developers to easily create relational mock data.
 
 To test modern applications effectively, a developer needs to generate logically **grouped and linked** objects that accurately represent user activity.
 
-Currently the process of creating relational mock data is **manual, time-consuming, overwhelming, and error prone.** 
+The current process of creating relational mock data is **manual, time-consuming, overwhelming, and error prone.** 
 
 ---
 
